@@ -298,8 +298,8 @@ Ferramenta para criar promoções de E-commerce, onde as mecânicas de promoçõ
 Atualmente implementamos e apresentamos o cadastro dos produtos dentro de promoções registradas dentro do servidor/banco de dados, utilizando operadores lógicos para criar diferentes mecânicas de promoções, os descontos são aplicados dentro da sacola de compras e possui uma visualização dedicada para conferência e escolha de promoções.
 
 Além disso, há a autonomia fornecida ao usuário para editar, remover, arquivar ou desarquivar seus produtos e também para editar, deletar, interromper ou ativar promoções de uma visualização de maneira prática e intuitiva dos produtos e promoções cadastradas através da listagem que possui um filtro para que seja possível diferenciar quais os status de produtos e promoções.
-<br><br>
 
+<br>
 
 ## Tecnologias Utilizadas:
 
@@ -599,6 +599,7 @@ Neste projeto, tive a oportunidade de atuar em uma nova posição desde o meu in
 Automatizamos a jornada de download de arquivos armazenados em uma plataforma de vídeo, realizando a transferência para a nuvem por meio do desenvolvimento de um serviço tipo aplicativo. A única interação do usuário com o serviço é por meio de um menu de configuração, que contém os parâmetros necessários para a execução do download. O serviço processa automaticamente os arquivos, gerando alertas em caso de erros de processamento.
 Além disso, o sistema salva os metadados dos arquivos para a construção de um dashboard de monitoramento da execução do serviço. Isso possibilita a análise posterior de resultados e indicadores, como a quantidade de arquivos transferidos, a quantidade de bytes transferidos, o tempo de transferência, entre outros.
 
+<br>
 
 ## Tecnologias Utilizadas:
 
@@ -739,6 +740,7 @@ Neste projeto, tive como um grande desafio a organização de tempo. Usamos muit
 
 O Proagro é um programa governamental que financia atividades agrícolas de pequenos e médios produtores no Brasil. Ao participar, o produtor precisa fornecer detalhes sobre sua atividade agrícola e localização das áreas cultivadas. Esses dados são armazenados em tabelas e em um banco de dados. Além disso, informações sobre técnicas de cultivo, tipos de plantas, potencial de produção, dados de plantio e colheita são essenciais. O uso do sensoriamento remoto tem sido eficaz para o monitoramento das atividades agrícolas, e os dados do Proagro são valiosos para a criação de modelos de inteligência artificial baseados em informações obtidas por satélite. O desafio é apresentar esses dados de forma clara e intuitiva em um sistema de informação geográfica, combinando informações sobre as operações agrícolas e dados de sensoriamento remoto.
 
+<br>
 
 ## Tecnologias Utilizadas:
 
