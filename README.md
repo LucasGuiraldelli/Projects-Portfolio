@@ -16,8 +16,6 @@ Meus principais hobbies são: jogar futebol, jogar video game e sair com meus am
 <br>
 
 
-
-
 # Projeto 1: 1º Semestre de 2021
 
 ### Como primeiro projeto da Faculdade, neste semestre não tivemos uma empresa externa como parceira para desenvolvimento de uma dor real. 
@@ -60,9 +58,28 @@ JavaScript é uma linguagem de programação amplamente usada no desenvolvimento
 
 ### Contribuições Pessoais:
 
-Neste projeto, principalmente, fui responsável pela pela parte de estruturar o back-end do projeto utilizando ReactNative e pelo desenvolvimento de telas. 
-Como principais tarefas desenvolvidas de back-end, destaco o a atividade de conexão com dieferentes API's, como foi o caso da conexão com a API do google para ter acesso a localização do usuário em tempo real, ter acesso a previsão do tempo deste local, identificação de locais para visitação e ao mapa, para trazer a rota que leva o usuário ao ponto turístico escolhido.
-No front-end, tive atuação principalmente no desenvolvimento de telas, como foi o caso da tela de previsão do tempo e de lista de função disponibilizadas pelo nosso app.
+### Contribuições para o Projeto
+
+Durante meu envolvimento no primeiro projeto da faculdade, tive a oportunidade de desenvolver e aprimorar diversas habilidades, tanto em termos de soft skills quanto de hard skills.
+
+#### Soft Skills Utilizadas:
+
+1. **Comunicação Efetiva:** Estabeleci um diálogo constante com o cliente interno, compreendendo suas necessidades e garantindo que as soluções atendessem às expectativas.
+
+2. **Trabalho em Equipe:** Colaborei eficientemente com os membros da equipe, contribuindo para um ambiente de trabalho colaborativo e produtivo.
+
+3. **Aprendizado Contínuo:** Demonstrei flexibilidade e adaptabilidade ao enfrentar novas tecnologias e metodologias, como o Scrum, garantindo um aprendizado constante ao longo do projeto.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia               | Nota (0-10) |
+| ------------------------ | ----------- |
+| JavaScript               |       9     |
+| ReactNative              |       9     |
+| Versionamento de Código  |       9     |
+| Estruturação de Projetos |       9     |
+| Lógica de Programação    |       9     |
+
 
 
 <br>
@@ -199,9 +216,20 @@ O SQLite é um sistema de gerenciamento de banco de dados relacional de código 
 
 <br>
 
-### Contribuições Pessoais:
-Neste projeto tive como atividade principal a criação de estrutura segura para conexão aos servidores dos bancos de dados do cliente, os que seriam usados posteriormente para monitoramento. A criação de estrutura foi feita em java, seguindo as especificações de strings de conexão colhidas no PostgreSQL. 
-Esta estrutura também contava com verificações de problemas nas requisições e definições de tempo máximo para busca, além de realizar buscar por metadados.
+### Contribuições para o Projeto
+
+Durante minha participação neste projeto, minha principal responsabilidade foi criar uma estrutura segura para a conexão aos servidores dos bancos de dados do cliente, os quais seriam posteriormente utilizados para fins de monitoramento. A implementação dessa estrutura foi realizada em Java, seguindo as especificações de strings de conexão obtidas do PostgreSQL.
+
+A estrutura desenvolvida não apenas assegurou a configuração segura da conexão, mas também incluiu a implementação de verificações de problemas nas requisições, definições de tempo máximo para busca e a capacidade de buscar por metadados.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia         | Nota (0-10) |
+| -------------------|-------------|
+| Java               |       9     |
+| PostgreSQL         |       9     |
+| Segurança em Java  |       9     |
+| Monitoramento de Banco de Dados | 9 |
 
 
 <br>
@@ -319,8 +347,22 @@ Desenvolvido para atender às demandas de aplicativos modernos e nativos da nuve
 <br>
 
 ### Contribuições Pessoais:
-Durante o desevolvimento do projeto, tive principal atuação no Back-end. Neste campo fui responsável pela estruturação do banco de dados, desde a modelagem dos campos necessários no modelo MER (Modelo entidade Relacionamento) garantindo a organização das informações e a fácil acessibilidade para que a aplicação mantivesse a troca de dados sem falha. <br><br>
-Para a implementação dessas estruturas foi necessário o aprendizado de uma nova tecnologia, o **Hibernate**. Que teve sua principal utilização na criação dos objetos do banco de dados a partir da aplicação.
+### Contribuições para o Projeto
+
+Durante o desenvolvimento do projeto, minha atuação principal foi no Back-end, concentrando-me na estruturação do banco de dados. Nesse contexto, destaco as seguintes soft skills que foram essenciais para o sucesso da implementação:
+
+1. **Organização:** Garanti a organização das informações por meio da modelagem de campos no Modelo Entidade-Relacionamento (MER), proporcionando fácil acessibilidade e troca de dados sem falhas.
+
+2. **Aprendizado Contínuo:** Enfrentei o desafio de aprender uma nova tecnologia, o **Hibernate**, que desempenhou um papel fundamental na criação de objetos do banco de dados a partir da aplicação.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia                   | Nota (0-10) |
+| ---------------------------- |-------------|
+| Modelagem MER                |     9       |
+| Hibernate                    |      9       |
+| Estruturação de Banco de Dados|      9       |
+
 
 
 <details><summary>Imagem Modelo Entidade Relacionamento (MER)</summary>
@@ -447,8 +489,29 @@ Sass (Syntactically Awesome Style Sheets) é uma linguagem de folhas de estilo q
 <br>
 
 ### Contribuições Pessoais:
-Neste projeto fui responsável pela criação da estrutura de requisições HTTP, utilizando uma nova tecnologia no front-end, o vue.js além disso, fui reponsável pelo desenvolvimento das telas, bem como design seguindo fielmente a estrutura do figma e também pela conectividade com funções do back-end. Também usando o vue.js, criei diferentes funções para focadas em dispodição de dados no front-end e acesso, ao que seria, um novo modelo de estruturação de pastas do projeto.
-Afim de melhorar o front-end, utilizei uma nova tecnologia, o Sass. Que melhora a visualização de componentes/design em geral, a partir do CSS. 
+
+### Contribuições para o Projeto
+
+No decorrer deste projeto, assumi a responsabilidade pela criação da estrutura de requisições HTTP, introduzindo uma nova tecnologia no front-end, o **Vue.js**. Além disso, fui encarregado do desenvolvimento das telas, seguindo fielmente a estrutura do Figma, e da conectividade com funções do back-end. Utilizando o Vue.js, criei diversas funções voltadas para a disposição de dados no front-end, assim como a implementação de um novo modelo de estruturação de pastas do projeto.
+
+Para aprimorar ainda mais o front-end, integrei uma nova tecnologia, o **Sass**. Essa tecnologia contribui significativamente para a visualização de componentes e design em geral, aprimorando a qualidade estética do CSS.
+
+#### Soft Skills Utilizadas:
+
+1. **Adaptabilidade:** Aprendi e implementei com sucesso novas tecnologias, como Vue.js e Sass, para melhorar a eficiência do front-end.
+
+2. **Foco no Detalhe:** Segui fielmente a estrutura do Figma, garantindo consistência e qualidade visual no desenvolvimento das telas.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia               | Nota (0-10) |
+| ------------------------ |-------------|
+| Vue.js                   |        9     |
+| Sass                     |        9    |
+| Estruturação de Pastas   |        9     |
+| Requisições HTTP         |         9    |
+
+
 
 <details><summary> Definição de endpoint</summary> 
 	
@@ -646,7 +709,30 @@ Os testes unitários são testes automatizados que validam a interface do usuár
 <br>
 
 ### Contribuições Pessoais:
-Neste projeto fui responsável pela organização da equipe, manejando o time para que tivéssemos tempo para aprender as novas tecnologias propostas;desenvolvimento da pipeline de execução tanto do front-end quanto do back-end, lidando com orquestações utilizando o GithubActions; desenvolvimento de testes unitários para o front-end.
+### Contribuições para o Projeto
+
+No decorrer deste projeto, assumi um papel abrangente, desempenhando funções cruciais que abordaram liderança, organização de equipe, desenvolvimento da pipeline e implementação de testes. Minha atuação foi caracterizada por:
+
+1. **Liderança e Organização de Equipe:** Gerenciei a equipe, priorizando o tempo para a aprendizagem das novas tecnologias e garantindo a eficiência do trabalho conjunto.
+
+2. **Desenvolvimento da Pipeline com GitHub Actions:** Criei a pipeline de execução para o front-end e o back-end, utilizando o GitHub Actions para orquestrar as operações e garantir uma integração contínua eficaz.
+
+3. **Testes Unitários para o Front-end:** Contribuí para a qualidade do projeto por meio do desenvolvimento de testes unitários no front-end, assegurando a funcionalidade robusta das implementações.
+
+#### Soft Skills Utilizadas:
+
+1. **Liderança Efetiva:** Coordenei a equipe com eficácia, adaptando-me às necessidades do projeto.
+
+2. **Gestão de Tempo:** Garanti um equilíbrio entre aprendizado das novas tecnologias e o cumprimento do cronograma estabelecido.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia                | Nota (0-10) |
+| ------------------------- |-------------|
+| GitHub Actions            |     9        |
+| Desenvolvimento de Testes |       9      |
+| Orquestração              |      9       |
+
 
 <details><summary>Issue Control:</summary> 
  
@@ -775,7 +861,22 @@ MongoDB é um banco de dados NoSQL orientado a documentos. Ele difere dos bancos
 <br>
 
 ### Contribuições Pessoais:
-Neste projeto fui responsável pelo desenvolvimento do back-end. Isso inclui: validação e verificação de qualidade dos dados, desenvolvimento de funções no python, criação de endpoints usando flask, lógica de login usando JWT. Também fui responsável pela estrutação de base de dados utilizando Postgres e Postgis para viablizar a leitura de dados de imagem da nossa base. Tratamento de dados e lógica de envio de informações através do HTTP. Criação de modelos de Machine Learning para previsão de séries temporais e verificação de situação de cada gleba(pedaço de terra).
+Minha atuação central no projeto concentrou-se no desenvolvimento do back-end, onde desempenhei diversas funções fundamentais. Além do aspecto técnico, destaco algumas soft skills que contribuíram para o sucesso do projeto:
+
+1. **Resiliência:** Enfrentei desafios complexos, assegurando a qualidade dos dados e mantendo a integridade do back-end.
+2. **Colaboração Eficaz:** Colaborei com colegas para garantir uma integração fluida entre o back-end e o front-end.
+
+#### Hard Skills Utilizadas:
+
+| Tecnologia           | Nota (0-10) |
+| -------------------- |-------------|
+| Python               |      9       |
+| Flask                |     9        |
+| JWT                  |      9       |
+| Postgres             |      9       |
+| PostGIS              |        9     |
+| Machine Learning     |       9      |
+
 
 <details><summary>Função de login e definição de rota e verificação de criptogafia:</summary> 
 
