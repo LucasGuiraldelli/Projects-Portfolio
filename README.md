@@ -58,8 +58,6 @@ JavaScript é uma linguagem de programação amplamente usada no desenvolvimento
 
 ### Contribuições Pessoais:
 
-### Contribuições para o Projeto
-
 Durante meu envolvimento no primeiro projeto da faculdade, tive a oportunidade de desenvolver e aprimorar diversas habilidades, tanto em termos de soft skills quanto de hard skills.
 
 #### Soft Skills Utilizadas:
@@ -347,7 +345,6 @@ Desenvolvido para atender às demandas de aplicativos modernos e nativos da nuve
 <br>
 
 ### Contribuições Pessoais:
-### Contribuições para o Projeto
 
 Durante o desenvolvimento do projeto, minha atuação principal foi no Back-end, concentrando-me na estruturação do banco de dados. Nesse contexto, destaco as seguintes soft skills que foram essenciais para o sucesso da implementação:
 
@@ -489,8 +486,6 @@ Sass (Syntactically Awesome Style Sheets) é uma linguagem de folhas de estilo q
 <br>
 
 ### Contribuições Pessoais:
-
-### Contribuições para o Projeto
 
 No decorrer deste projeto, assumi a responsabilidade pela criação da estrutura de requisições HTTP, introduzindo uma nova tecnologia no front-end, o **Vue.js**. Além disso, fui encarregado do desenvolvimento das telas, seguindo fielmente a estrutura do Figma, e da conectividade com funções do back-end. Utilizando o Vue.js, criei diversas funções voltadas para a disposição de dados no front-end, assim como a implementação de um novo modelo de estruturação de pastas do projeto.
 
@@ -709,7 +704,6 @@ Os testes unitários são testes automatizados que validam a interface do usuár
 <br>
 
 ### Contribuições Pessoais:
-### Contribuições para o Projeto
 
 No decorrer deste projeto, assumi um papel abrangente, desempenhando funções cruciais que abordaram liderança, organização de equipe, desenvolvimento da pipeline e implementação de testes. Minha atuação foi caracterizada por:
 
