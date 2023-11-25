@@ -192,7 +192,7 @@ Como primeiro projeto da faculdade, tive a oportunidade de explorar novas tecnol
 
 ## Objetivo do projeto:
 
-O desafio consiste em apresentar para o cliente Necto Systems, uma solução referente ao problema no monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa.
+O desafio deste projeto consiste em apresentar para o cliente Necto Systems, uma solução referente ao problema no monitoramento de um ou mais SGBDs remotos, bem como na coleta de métricas de funcionamento dos Banco de Dados presentes nos servidores da empresa.
 
 Tendo isso em mente, o objetivo da equipe é desenvolver um software integrado que monitore e apresente métricas referentes ao uso e a saúde do SGBD em tempo real. Além de oferecer um pós gerenciamento de múltiplos BDs no servidor, como diferencial.
 
@@ -351,7 +351,7 @@ Durante o projeto, desenvolvi habilidades significativas em soft skills, destaca
 
 Ferramenta para criar promoções de E-commerce, onde as mecânicas de promoções são feitas de forma flexível e de rápida atualização no sistema. As regras de promoções são cadastradas e posteriormente aplicadas no momento em que os itens são adicionados ao carrinho.
 
-Atualmente implementamos e apresentamos o cadastro dos produtos dentro de promoções registradas dentro do servidor/banco de dados, utilizando operadores lógicos para criar diferentes mecânicas de promoções, os descontos são aplicados dentro da sacola de compras e possui uma visualização dedicada para conferência e escolha de promoções.
+Este projeto constitui no desenvolvimento de uma tela de cadastro dos produtos dentro de promoções registradas dentro do servidor/banco de dados, utilizando operadores lógicos para criar diferentes mecânicas de promoções, os descontos são aplicados dentro da sacola de compras e possui uma visualização dedicada para conferência e escolha de promoções.
 
 Além disso, há a autonomia fornecida ao usuário para editar, remover, arquivar ou desarquivar seus produtos e também para editar, deletar, interromper ou ativar promoções de uma visualização de maneira prática e intuitiva dos produtos e promoções cadastradas através da listagem que possui um filtro para que seja possível diferenciar quais os status de produtos e promoções.
 
@@ -369,7 +369,7 @@ O Hibernate ORM facilita o desenvolvimento de aplicativos cujos dados persistem 
 
 ### ` Quarkus ` 
 
-Desenvolvido para atender às demandas de aplicativos modernos e nativos da nuvem, o Quarkus é uma estrutura Java nativa do Kubernetes, adaptada para GraalVM e HotSpot. Criado a partir das melhores bibliotecas e padrões Java, o Quarkus tem como objetivo fazer do Java a principal plataforma em Kubernetes e ambientes sem servidor. Oferece aos desenvolvedores uma estrutura para atender a diversas arquiteturas de aplicativos distribuídos, superando os desafios das pilhas Java tradicionais.
+O Quarkus foi desenvolvido para atender às demandas de aplicativos modernos e nativos da nuvem, o Quarkus é uma estrutura Java nativa do Kubernetes, adaptada para GraalVM e HotSpot. Criado a partir das melhores bibliotecas e padrões Java, o Quarkus tem como objetivo fazer do Java a principal plataforma em Kubernetes e ambientes sem servidor. Oferece aos desenvolvedores uma estrutura para atender a diversas arquiteturas de aplicativos distribuídos, superando os desafios das pilhas Java tradicionais.
 
 
 <br>
