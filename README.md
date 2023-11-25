@@ -16,6 +16,8 @@ Meus principais hobbies são: jogar futebol, jogar video game e sair com meus am
 <br>
 
 
+
+
 # Projeto 1: 1º Semestre de 2021
 
 ### Como primeiro projeto da Faculdade, neste semestre não tivemos uma empresa externa como parceira para desenvolvimento de uma dor real. 
@@ -58,26 +60,9 @@ JavaScript é uma linguagem de programação amplamente usada no desenvolvimento
 
 ### Contribuições Pessoais:
 
-Durante meu envolvimento no primeiro projeto da faculdade, tive a oportunidade de desenvolver e aprimorar diversas habilidades, tanto em termos de soft skills quanto de hard skills.
-
-#### Soft Skills Utilizadas:
-
-1. **Comunicação Efetiva:** Estabeleci um diálogo constante com o cliente interno, compreendendo suas necessidades e garantindo que as soluções atendessem às expectativas.
-
-2. **Trabalho em Equipe:** Colaborei eficientemente com os membros da equipe, contribuindo para um ambiente de trabalho colaborativo e produtivo.
-
-3. **Aprendizado Contínuo:** Demonstrei flexibilidade e adaptabilidade ao enfrentar novas tecnologias e metodologias, como o Scrum, garantindo um aprendizado constante ao longo do projeto.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia               | Nota (0-10) |
-| ------------------------ | ----------- |
-| JavaScript               |       9     |
-| ReactNative              |       9     |
-| Versionamento de Código  |       9     |
-| Estruturação de Projetos |       9     |
-| Lógica de Programação    |       9     |
-
+Neste projeto, principalmente, fui responsável pela pela parte de estruturar o back-end do projeto utilizando ReactNative e pelo desenvolvimento de telas. 
+Como principais tarefas desenvolvidas de back-end, destaco o a atividade de conexão com dieferentes API's, como foi o caso da conexão com a API do google para ter acesso a localização do usuário em tempo real, ter acesso a previsão do tempo deste local, identificação de locais para visitação e ao mapa, para trazer a rota que leva o usuário ao ponto turístico escolhido.
+No front-end, tive atuação principalmente no desenvolvimento de telas, como foi o caso da tela de previsão do tempo e de lista de função disponibilizadas pelo nosso app.
 
 
 <br>
@@ -160,8 +145,29 @@ Essas linhas de código definem estilos para componentes React Native. O estilo 
 
 ## Aprendizados efetivos:
 
-Como primeiro projeto da faculdade, como tive contato com novas tecnologias que nunca tinha tido antes, houve muito espaço para aprendizado. Além do primeiro contato com a metodologia ágil Scrum, pude aprender bastante sobre como estruturação de projetos, utilização de versionamento de código e fluxo de desenvolvimento de projeto. Além disso, pude melhorar minhas Soft Skills, a partir de conversas com o cliente interno e trabalho em equipe.
-Além disso, focando em linguagens de programação, tive espaço para desenvolver habilidades de lógica de programação, endereçamento de telas e criação de funções a partir do JavaScript e ReactNative.
+Como primeiro projeto da faculdade, tive a oportunidade de explorar novas tecnologias, proporcionando um amplo espaço para aprendizado. Algumas das principais experiências incluíram:
+
+#### Soft Skills Desenvolvidas:
+
+- **Comunicação:**
+  - Melhorei minhas habilidades de comunicação através do contato com o cliente interno, entendendo suas necessidades e requisitos.
+  - Colaborei efetivamente em equipe, contribuindo para o ambiente de trabalho colaborativo.
+
+- **Trabalho em Equipe:**
+  - Participando do desenvolvimento do projeto, aprimorei minhas habilidades de trabalho em equipe, essenciais para o sucesso do projeto.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                           | Nota (0-10) |
+|--------------------------------------|-------------|
+| Metodologia Ágil - Scrum             | 8           |
+| Estruturação de Projetos             | 7           |
+| Versionamento de Código              | 8           |
+| Fluxo de Desenvolvimento de Projeto   | 7           |
+| Lógica de Programação                | 9           |
+| Endereçamento de Telas (ReactNative) | 8           |
+| Criação de Funções (JavaScript)      | 9           |
+
 
 
 <br>
@@ -214,20 +220,9 @@ O SQLite é um sistema de gerenciamento de banco de dados relacional de código 
 
 <br>
 
-### Contribuições para o Projeto
-
-Durante minha participação neste projeto, minha principal responsabilidade foi criar uma estrutura segura para a conexão aos servidores dos bancos de dados do cliente, os quais seriam posteriormente utilizados para fins de monitoramento. A implementação dessa estrutura foi realizada em Java, seguindo as especificações de strings de conexão obtidas do PostgreSQL.
-
-A estrutura desenvolvida não apenas assegurou a configuração segura da conexão, mas também incluiu a implementação de verificações de problemas nas requisições, definições de tempo máximo para busca e a capacidade de buscar por metadados.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia         | Nota (0-10) |
-| -------------------|-------------|
-| Java               |       9     |
-| PostgreSQL         |       9     |
-| Segurança em Java  |       9     |
-| Monitoramento de Banco de Dados | 9 |
+### Contribuições Pessoais:
+Neste projeto tive como atividade principal a criação de estrutura segura para conexão aos servidores dos bancos de dados do cliente, os que seriam usados posteriormente para monitoramento. A criação de estrutura foi feita em java, seguindo as especificações de strings de conexão colhidas no PostgreSQL. 
+Esta estrutura também contava com verificações de problemas nas requisições e definições de tempo máximo para busca, além de realizar buscar por metadados.
 
 
 <br>
@@ -300,9 +295,44 @@ Essas linhas de código estão dentro de um bloco catch, que trata exceções do
 
 ## Aprendizados efetivos:
 
-Neste projeto, tive a oportunidade de atuar como _PO (Product Owner)_ do projeto, tendo oportunidade de desenvolver habilidades de Soft Skills, principalmente de comunicação para definição de planejamento de entregas e organização de equipe. 
-Como desenvolvedor focado em back-end, pude focar em tarefas voltadas ao preparo de ambiente para utiização das tecnologias citadas acima, estruturação de repositórios e pastas para utilização do Java. Também o desenvolvimento de funções em Java, o que agregou muito para o meu entendimento de como algoritmos de programação funcionam e a importância de ter uma estrutura e regras de acesso muito bem definidas para que a aplicação funcione da forma robusta.
-Voltado para conhecimentos de DBA (Database Administrator), pude desenvolver habilidades de acesso a banco de dados utilizando strings de conexão, realizar inserções e consultas dos dados de forma segura.
+#### Soft Skills Desenvolvidas:
+
+Durante o projeto, desenvolvi habilidades significativas em soft skills, destacando especialmente:
+
+1. **Comunicação:**
+   - Interagindo como _Product Owner_, aprimorei minhas habilidades de comunicação para facilitar a definição do planejamento de entregas.
+   - Organizei eficientemente a equipe por meio de comunicação clara, garantindo um entendimento comum dos objetivos.
+
+2. **Trabalho em Equipe:**
+   - Colaborei na organização da equipe, promovendo um ambiente cooperativo para alcançar metas comuns.
+
+3. **Planejamento:**
+   - Contribuí ativamente para a definição de planejamentos eficazes, alinhando as metas do projeto com as expectativas da equipe.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                    | Nota (0-10) |
+|-------------------------------|-------------|
+| Desenvolvimento Java           | 8           |
+| Estruturação de Repositórios   | 9           |
+| Algoritmos de Programação      | 8           |
+| Strings de Conexão (DBA)       | 7           |
+| Acesso a Banco de Dados       | 8           |
+
+1. **Desenvolvimento Java:**
+   - Foco em tarefas de back-end, desenvolvimento de funções em Java, contribuindo para uma compreensão mais profunda de algoritmos de programação.
+
+2. **Estruturação de Repositórios:**
+   - Dedicação à organização eficiente de repositórios e pastas, facilitando a utilização de Java.
+
+3. **Algoritmos de Programação:**
+   - Aprofundamento no entendimento de algoritmos, essenciais para o desenvolvimento robusto.
+
+4. **Strings de Conexão (DBA):**
+   - Habilidades aprimoradas na manipulação de strings de conexão para acesso seguro a banco de dados.
+
+5. **Acesso a Banco de Dados:**
+   - Desenvolvimento de habilidades como DBA, realizando inserções e consultas de dados de forma segura.
 
 <br>
 
@@ -345,21 +375,8 @@ Desenvolvido para atender às demandas de aplicativos modernos e nativos da nuve
 <br>
 
 ### Contribuições Pessoais:
-
-Durante o desenvolvimento do projeto, minha atuação principal foi no Back-end, concentrando-me na estruturação do banco de dados. Nesse contexto, destaco as seguintes soft skills que foram essenciais para o sucesso da implementação:
-
-1. **Organização:** Garanti a organização das informações por meio da modelagem de campos no Modelo Entidade-Relacionamento (MER), proporcionando fácil acessibilidade e troca de dados sem falhas.
-
-2. **Aprendizado Contínuo:** Enfrentei o desafio de aprender uma nova tecnologia, o **Hibernate**, que desempenhou um papel fundamental na criação de objetos do banco de dados a partir da aplicação.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia                   | Nota (0-10) |
-| ---------------------------- |-------------|
-| Modelagem MER                |     9       |
-| Hibernate                    |      9       |
-| Estruturação de Banco de Dados|      9       |
-
+Durante o desevolvimento do projeto, tive principal atuação no Back-end. Neste campo fui responsável pela estruturação do banco de dados, desde a modelagem dos campos necessários no modelo MER (Modelo entidade Relacionamento) garantindo a organização das informações e a fácil acessibilidade para que a aplicação mantivesse a troca de dados sem falha. <br><br>
+Para a implementação dessas estruturas foi necessário o aprendizado de uma nova tecnologia, o **Hibernate**. Que teve sua principal utilização na criação dos objetos do banco de dados a partir da aplicação.
 
 
 <details><summary>Imagem Modelo Entidade Relacionamento (MER)</summary>
@@ -435,7 +452,29 @@ Durante o projeto também atuei na camada de troca de dados, utilizando JavaScri
 
 ## Aprendizados efetivos:
 
-Durante a segunda sprint tivemos que fazer uma reestruturação na equipe, onde tive participação fundamental na organização da equipe. Assumindo uma nova função como _PO (Product Owner)_ da equipe até a finalização do projeto, onde pude colocar em prática as ferramentas das metodologias ágeis aprendidas em aula, seguindo o SCRUM. 
+Durante a segunda sprint, experimentei uma reestruturação na equipe, desempenhando um papel fundamental na organização. Assumi uma nova função como _PO (Product Owner)_ da equipe até a conclusão do projeto, aplicando práticas das metodologias ágeis aprendidas em sala de aula, seguindo o SCRUM.
+
+#### Soft Skills Desenvolvidas:
+
+- **Liderança:**
+  - Na reestruturação da equipe, exerci uma liderança efetiva para garantir uma transição suave.
+
+- **Adaptabilidade:**
+  - Assumir o papel de _Product Owner_ demandou rápida adaptação às novas responsabilidades e demandas do projeto.
+
+- **Comunicação:**
+  - Comuniquei eficientemente as necessidades e objetivos da equipe, facilitando o entendimento e a colaboração.
+
+- **Gestão de Equipe:**
+  - Desenvolvi habilidades de gestão ao liderar a equipe até a conclusão do projeto.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                           | Nota (0-10) |
+|--------------------------------------|-------------|
+| Metodologias Ágeis (SCRUM)           | 9           |
+| Gestão de Projetos (Product Owner)   | 8           |
+
 
 <br>
 
@@ -486,27 +525,8 @@ Sass (Syntactically Awesome Style Sheets) é uma linguagem de folhas de estilo q
 <br>
 
 ### Contribuições Pessoais:
-
-No decorrer deste projeto, assumi a responsabilidade pela criação da estrutura de requisições HTTP, introduzindo uma nova tecnologia no front-end, o **Vue.js**. Além disso, fui encarregado do desenvolvimento das telas, seguindo fielmente a estrutura do Figma, e da conectividade com funções do back-end. Utilizando o Vue.js, criei diversas funções voltadas para a disposição de dados no front-end, assim como a implementação de um novo modelo de estruturação de pastas do projeto.
-
-Para aprimorar ainda mais o front-end, integrei uma nova tecnologia, o **Sass**. Essa tecnologia contribui significativamente para a visualização de componentes e design em geral, aprimorando a qualidade estética do CSS.
-
-#### Soft Skills Utilizadas:
-
-1. **Adaptabilidade:** Aprendi e implementei com sucesso novas tecnologias, como Vue.js e Sass, para melhorar a eficiência do front-end.
-
-2. **Foco no Detalhe:** Segui fielmente a estrutura do Figma, garantindo consistência e qualidade visual no desenvolvimento das telas.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia               | Nota (0-10) |
-| ------------------------ |-------------|
-| Vue.js                   |        9     |
-| Sass                     |        9    |
-| Estruturação de Pastas   |        9     |
-| Requisições HTTP         |         9    |
-
-
+Neste projeto fui responsável pela criação da estrutura de requisições HTTP, utilizando uma nova tecnologia no front-end, o vue.js além disso, fui reponsável pelo desenvolvimento das telas, bem como design seguindo fielmente a estrutura do figma e também pela conectividade com funções do back-end. Também usando o vue.js, criei diferentes funções para focadas em dispodição de dados no front-end e acesso, ao que seria, um novo modelo de estruturação de pastas do projeto.
+Afim de melhorar o front-end, utilizei uma nova tecnologia, o Sass. Que melhora a visualização de componentes/design em geral, a partir do CSS. 
 
 <details><summary> Definição de endpoint</summary> 
 	
@@ -634,7 +654,32 @@ Essas linhas de código definem estilos CSS para um ícone de chat flutuante no 
 
 ## Aprendizados efetivos:
 
-Neste projeto, tive a oportunidade de atuar em uma nova posição desde o meu ingresso na Fatec, sendo desenvolvedor focado em front-end e requisições de dados. Para isso, utilizamos como ferramenta principal o Vue.js, uma tecnologia nova para mim, que ampliou minha forma de pensar. Com ela, pude realizar tarefas variadas, desde o desenvolvimento de interfaces e design de telas até a criação de uma estrutura que permitiu a interação e a troca de informações de maneira eficiente em conjunto com o back-end. Essa experiência contribuiu para o aprimoramento das minhas habilidades e consolidou meu conhecimento nesse campo da programação.
+Neste projeto da Fatec, atuei como desenvolvedor especializado em front-end e requisições de dados, utilizando Vue.js como principal ferramenta. Essa experiência ampliou minha perspectiva, permitindo-me realizar diversas tarefas, desde o design de interfaces até a criação de uma estrutura eficiente para interação com o back-end. Este aprendizado significativo não apenas aprimorou minhas habilidades, mas também consolidou meu conhecimento na programação, representando um avanço valioso em minha jornada profissional.
+
+#### Soft Skills Desenvolvidas:
+
+- **Adaptabilidade:**
+  - Adaptei-me rapidamente ao ambiente de trabalho e à nova tecnologia (Vue.js), demonstrando flexibilidade.
+
+- **Colaboração:**
+  - Colaborei efetivamente com a equipe de back-end, facilitando uma integração harmoniosa entre as camadas front-end e back-end.
+
+- **Resolução de Problemas:**
+  - Enfrentei desafios na criação da estrutura de interação e troca de informações, desenvolvendo habilidades sólidas de resolução de problemas.
+
+- **Aprendizado Contínuo:**
+  - Demonstrei disposição para aprender e me aprimorar, especialmente ao lidar com uma tecnologia nova.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                    | Nota (0-10) |
+|-------------------------------|-------------|
+| Vue.js                        | 9           |
+| Desenvolvimento Front-End     | 8           |
+| Requisições de Dados          | 8           |
+| Design de Interfaces          | 7           |
+| Estruturação de Informações   | 8           |
+
 
 <br>
 
@@ -704,29 +749,7 @@ Os testes unitários são testes automatizados que validam a interface do usuár
 <br>
 
 ### Contribuições Pessoais:
-
-No decorrer deste projeto, assumi um papel abrangente, desempenhando funções cruciais que abordaram liderança, organização de equipe, desenvolvimento da pipeline e implementação de testes. Minha atuação foi caracterizada por:
-
-1. **Liderança e Organização de Equipe:** Gerenciei a equipe, priorizando o tempo para a aprendizagem das novas tecnologias e garantindo a eficiência do trabalho conjunto.
-
-2. **Desenvolvimento da Pipeline com GitHub Actions:** Criei a pipeline de execução para o front-end e o back-end, utilizando o GitHub Actions para orquestrar as operações e garantir uma integração contínua eficaz.
-
-3. **Testes Unitários para o Front-end:** Contribuí para a qualidade do projeto por meio do desenvolvimento de testes unitários no front-end, assegurando a funcionalidade robusta das implementações.
-
-#### Soft Skills Utilizadas:
-
-1. **Liderança Efetiva:** Coordenei a equipe com eficácia, adaptando-me às necessidades do projeto.
-
-2. **Gestão de Tempo:** Garanti um equilíbrio entre aprendizado das novas tecnologias e o cumprimento do cronograma estabelecido.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia                | Nota (0-10) |
-| ------------------------- |-------------|
-| GitHub Actions            |     9        |
-| Desenvolvimento de Testes |       9      |
-| Orquestração              |      9       |
-
+Neste projeto fui responsável pela organização da equipe, manejando o time para que tivéssemos tempo para aprender as novas tecnologias propostas;desenvolvimento da pipeline de execução tanto do front-end quanto do back-end, lidando com orquestações utilizando o GithubActions; desenvolvimento de testes unitários para o front-end.
 
 <details><summary>Issue Control:</summary> 
  
@@ -798,7 +821,30 @@ describe('toHome', () => {
 
 ## Aprendizados efetivos:
 
-Neste projeto, tive como um grande desafio a organização de tempo. Usamos muitas tecnologias que até então eram novas para o time, e como Scrum Master tive que manejar a equipe para que priorizasse as tarefas corretas e que pudesse se desenvolver. Além disso, também instrui a equipe para que conseguíssemos utilizar as metologias de orquestação junto ao CI/CD com unit-tests, garantindo a qualidade e durabilidade do software que estávamos desenvolvendo. Montei toda parte de pipeline de execução de códigos utilizando o GithubActions, junto com validações de qualidade e seguranã de software do próprio Github.
+#### Soft Skills Desenvolvidas:
+
+- **Gestão do Tempo:**
+   - Enfrentei o desafio da organização do tempo, priorizando tarefas essenciais para o progresso do projeto.
+
+- **Liderança:**
+   - Como Scrum Master, liderei a equipe, guiando-a na adoção de tecnologias novas e na priorização eficiente de tarefas.
+
+- **Comunicação Eficaz:**
+   - Instruí a equipe, assegurando que compreendessem as metodologias de orquestração, CI/CD e unit-tests, promovendo uma comunicação clara e eficaz.
+
+- **Orientação e Instrução:**
+   - Instruí a equipe na implementação de metodologias de orquestração, garantindo o uso adequado de práticas como CI/CD e unit-tests.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                                | Nota (0-10) |
+|-------------------------------------------|-------------|
+| Gestão de Tempo                           | 9           |
+| Metodologias de Orquestração (CI/CD)      | 8           |
+| GitHub Actions                            | 9           |
+| Pipeline de Execução de Códigos           | 8           |
+| Validações de Qualidade e Segurança      | 8           |
+
 
 <br>
 
@@ -855,22 +901,7 @@ MongoDB é um banco de dados NoSQL orientado a documentos. Ele difere dos bancos
 <br>
 
 ### Contribuições Pessoais:
-Minha atuação central no projeto concentrou-se no desenvolvimento do back-end, onde desempenhei diversas funções fundamentais. Além do aspecto técnico, destaco algumas soft skills que contribuíram para o sucesso do projeto:
-
-1. **Resiliência:** Enfrentei desafios complexos, assegurando a qualidade dos dados e mantendo a integridade do back-end.
-2. **Colaboração Eficaz:** Colaborei com colegas para garantir uma integração fluida entre o back-end e o front-end.
-
-#### Hard Skills Utilizadas:
-
-| Tecnologia           | Nota (0-10) |
-| -------------------- |-------------|
-| Python               |      9       |
-| Flask                |     9        |
-| JWT                  |      9       |
-| Postgres             |      9       |
-| PostGIS              |        9     |
-| Machine Learning     |       9      |
-
+Neste projeto fui responsável pelo desenvolvimento do back-end. Isso inclui: validação e verificação de qualidade dos dados, desenvolvimento de funções no python, criação de endpoints usando flask, lógica de login usando JWT. Também fui responsável pela estrutação de base de dados utilizando Postgres e Postgis para viablizar a leitura de dados de imagem da nossa base. Tratamento de dados e lógica de envio de informações através do HTTP. Criação de modelos de Machine Learning para previsão de séries temporais e verificação de situação de cada gleba(pedaço de terra).
 
 <details><summary>Função de login e definição de rota e verificação de criptogafia:</summary> 
 
@@ -900,5 +931,63 @@ def login(email_in=None, senha_in=None):
 <br>
 
 </details>
+<details><summary>Função utilizada para criação de modelo de previsão dos indices:</summary> 
+	
+```
+previsoes = []
 
+for ref_bacen in dados['ref_bacen'].unique():
+    dados_ref = dados[dados['ref_bacen'] == ref_bacen]['indice']
+    print(dados_ref)
 
+    modelo = SARIMAX(dados_ref, order=(1, 1, 1), seasonal_order=(1, 1, 1, 12))
+    resultado = modelo.fit()
+
+    # Obter os próximos 6 passos de previsão a partir do próximo mês após a última data nos dados
+    ultima_data = dados_ref.index[-1]
+    proximas_datas_previsao = pd.date_range(start=ultima_data, periods=7, freq='M')[1:]
+
+    previsao = resultado.get_forecast(steps=6)
+    previsao_mean = previsao.predicted_mean
+    
+    previsao_df = pd.DataFrame({
+        'date': proximas_datas_previsao,
+        'ref_bacen': ref_bacen,
+        'previsao': previsao_mean,
+    })
+
+    previsoes.append(previsao_df)
+
+previsoes_df = pd.concat(previsoes)
+```
+
+</details>
+
+<br> 
+
+## Aprendizados efetivos:
+
+# Aprendizados Efetivos de Projeto
+
+#### Soft Skills Desenvolvidas:
+
+Durante este projeto, algumas soft skills foram desenvolvidas e aplicadas:
+
+- **Colaboração:**
+   - Trabalhei diretamente no back-end, colaborando efetivamente com a equipe para atingir os objetivos do projeto.
+
+- **Comunicação Efetiva:**
+   - Facilitei a comunicação entre as equipes de desenvolvimento, contribuindo para a fluidez das tarefas e compreensão mútua.
+
+- **Adaptabilidade:**
+   - Ao aprender uma nova tecnologia (MongoDB), demonstrei adaptabilidade ao ambiente de desenvolvimento.
+
+#### Hard Skills Desenvolvidas:
+
+| Hard Skill                          | Nota (0-10) |
+|-------------------------------------|-------------|
+| Desenvolvimento em Flask            | 9           |
+| Liberação de Login com JWT          | 8           |
+| Desenvolvimento de Modelos de ML    | 7           |
+| MongoDB                             | 8           |
+| Integração Python e Flask           | 9           |
