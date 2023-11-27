@@ -67,7 +67,7 @@ No front-end, tive atuação principalmente no desenvolvimento de telas, como fo
 
 <br>
 
-<details><summary>Definição de palavras chave para ativação e chamada da função</summary> 
+<details><summary>Uso de APIS:</summary> 
 	
 ```
 export default class Converter extends React.Component {
